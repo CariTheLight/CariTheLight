@@ -11,4 +11,4 @@ I'm a Fullstack Developer ![image](https://github.com/CariTheLight/CariTheLight/
 
 - 📫How to reach me:
 - ![image](https://github.com/CariTheLight/CariTheLight/assets/122978378/7fbb3cde-344b-4373-b41e-c77f07ef0514)
-- carinerugorirwera@gmail.com
+- ![email](carinerugorirwera@gmail.com)
