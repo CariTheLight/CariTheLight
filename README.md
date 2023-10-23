@@ -7,7 +7,7 @@ I'm a Fullstack Developer ![image](https://raw.githubusercontent.com/CariTheLigh
 - 🌱 I’m currently learning React
 - 🛠️ Languages and Tools 🛠️
   
-<img src="https://raw.githubusercontent.com/CariTheLight/CariTheLight/main/assets/122978378/66bfc8b6-d825-4e28-960f-76306668fdfd" width="100"> <img src="https://raw.githubusercontent.com/CariTheLight/CariTheLight/main/assets/122978378/84523ee3-7c87-4665-845d-f6515f1165c8" width="100"> <img src="https://raw.githubusercontent.com/CariTheLight/CariTheLight/main/assets/122978378/5d0a25f0-0f0a-41d8-9bc9-d0b61f54e967" width="100">
+<img src="https://[raw.githubusercontent.com/CariTheLight/CariTheLight/main/assets/122978378/66bfc8b6-d825-4e28-960f-76306668fdfd](https://github.com/CariTheLight/CariTheLight/assets/122978378/66bfc8b6-d825-4e28-960f-76306668fdfd)" width="100"> <img src="https://raw.githubusercontent.com/CariTheLight/CariTheLight/main/assets/122978378/84523ee3-7c87-4665-845d-f6515f1165c8" width="100"> <img src="https://raw.githubusercontent.com/CariTheLight/CariTheLight/main/assets/122978378/5d0a25f0-0f0a-41d8-9bc9-d0b61f54e967" width="100">
 <!-- Add other images similarly -->
 
 - 📫 How to reach me:
