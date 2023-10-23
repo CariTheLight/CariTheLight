@@ -1,6 +1,7 @@
 # Hi👋, I'm Carine Rugorirwera!
 
 ## About Me: > I'm a Fullstack Developer ![image](https://github.com/CariTheLight/CariTheLight/assets/122978378/aa16c76f-d210-46ff-aa10-3f58e35eb082)
+https://camo.githubusercontent.com/aeaada31d6b5d46dd1a30f107cfd49de8d4cc64bbb0cf9b1e6f09ed79d76c5e3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f59524d62366464377a70725330304a64475a2f67697068792e676966
 
 - 🔭 I’m currently working on ![Achievo](https://www.achievo.me/) and creating the mobile version while improving my Ruby, Ruby on Rails and Javascript.
 - 🌱 I’m currently learning React
